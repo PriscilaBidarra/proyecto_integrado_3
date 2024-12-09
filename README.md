@@ -1,4 +1,3 @@
-# proyecto_integrado_3.
    # EXAMEN FINAL 11-DIC-24 TURNO MAÑANA
    # REGULAR COMPLETO
    ## TECNICATURA DE DESPACHO 
