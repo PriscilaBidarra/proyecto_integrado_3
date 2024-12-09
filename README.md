@@ -1,5 +1,5 @@
-   # EXAMEN FINAL 11-DIC-24 TURNO MAÑANA
-   # REGULAR COMPLETO
+   ## EXAMEN FINAL 11-DIC-24 TURNO MAÑANA
+   ## REGULAR COMPLETO
    ## TECNICATURA DE DESPACHO 
    
    ## Protocolo de emergencia y evacuación para un aserradero.
